@@ -5,7 +5,7 @@
   "dependencies": {
     "canvg": "^1.5.2",
     "html2canvas": "^1.0.0-alpha.12",
-    "jspdf": "^1.4.1",
+    "jspdf": "^1.5.3",
     "jspdf-autotable": "^2.3.5",
     "qrcode.react": "^0.8.0",
     "react": "^16.5.0",
