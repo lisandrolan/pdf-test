@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "canvg": "^1.5.2",
+    "canvg": "^1.5.3",
     "html2canvas": "^1.0.0-alpha.12",
     "jspdf": "^1.4.1",
     "jspdf-autotable": "^2.3.5",
