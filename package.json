@@ -8,8 +8,8 @@
     "jspdf": "^1.4.1",
     "jspdf-autotable": "^2.3.5",
     "qrcode.react": "^0.8.0",
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "react-scripts": "1.1.5"
