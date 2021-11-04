@@ -7,7 +7,7 @@
     "html2canvas": "^1.0.0-alpha.12",
     "jspdf": "^1.4.1",
     "jspdf-autotable": "^2.3.5",
-    "qrcode.react": "^0.8.0",
+    "qrcode.react": "^0.9.3",
     "react": "^16.5.0",
     "react-dom": "^16.5.0"
   },
